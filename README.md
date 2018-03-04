@@ -23,3 +23,4 @@ is that it can't query a page that requires a login.<br>
 <p>Type input in element textbox</p>
 <br>
 <h3>Output</h3>
+<img src="https://user-images.githubusercontent.com/32919321/36941055-85ed8d58-1f20-11e8-9723-3ba882413a72.PNG" alt="Smiley face" height="300" width="650">
